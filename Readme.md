@@ -20,7 +20,11 @@ Clonamos el repositorio git.
 ![image](https://github.com/user-attachments/assets/fc12c751-25e0-4350-8a83-17b85bf7f2c3)
 Nos dirigimos al directorio /etc/mysql/mariadb.conf.d y modificamos el fichero 50-server.cnf y ponemos la IP de nuestra máquina.
 ![image](https://github.com/user-attachments/assets/e6278ba5-fac7-4547-8f39-5e945ef7d1fb)
+Seguidamente cargamos la base de datos database.sql
+![image](https://github.com/user-attachments/assets/e3385b1d-3421-4a74-9439-4ff22e63e589)
+
 Siendo root entramos a la base de datos con sudo mysql -u root y creamos un usuario con la ip de la máquina apache (192.168.3.10) con todos los permisos para poder acceder a ella desde la otra máquina.
+
 
 
 
