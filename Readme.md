@@ -27,6 +27,8 @@ Siendo root entramos a la base de datos con sudo mysql -u root y creamos un usua
 
 Configuraciónn Apache
 Nos dirigimos al directorio /var/www/ y redirigimos todos los archivos.
+![image](https://github.com/user-attachments/assets/8c5cc0d5-f869-421c-9b52-6ce39b284ff7)
+
 
 
 
