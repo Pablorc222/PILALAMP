@@ -22,8 +22,12 @@ Nos dirigimos al directorio /etc/mysql/mariadb.conf.d y modificamos el fichero 5
 ![image](https://github.com/user-attachments/assets/e6278ba5-fac7-4547-8f39-5e945ef7d1fb)
 Seguidamente cargamos la base de datos database.sql
 ![image](https://github.com/user-attachments/assets/e3385b1d-3421-4a74-9439-4ff22e63e589)
-
 Siendo root entramos a la base de datos con sudo mysql -u root y creamos un usuario con la ip de la máquina apache (192.168.3.10) con todos los permisos para poder acceder a ella desde la otra máquina.
+![image](https://github.com/user-attachments/assets/ea96325f-635e-45eb-b362-0d0dd0b643a0)
+
+Configuraciónn Apache
+Nos dirigimos al directorio /var/www/ y redirigimos todos los archivos.
+
 
 
 
