@@ -17,6 +17,9 @@ Creamos también un script para cada máquina, en este caso, serán estos:
 
 Configuración MySql
 Clonamos el repositorio git.
+![image](https://github.com/user-attachments/assets/fc12c751-25e0-4350-8a83-17b85bf7f2c3)
+Nos dirigimos al directorio /etc/mysql/mariadb.conf.d y modificamos el fichero 50-server.cnf y ponemos la IP de nuestra máquina.
+
 
 
 
