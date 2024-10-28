@@ -31,6 +31,7 @@ Nos dirigimos al directorio /var/www/ y redirigimos todos los archivos.
 Después de ello, creamos un ficheor de condiguración 
 ![image](https://github.com/user-attachments/assets/7334e9d9-eced-4050-acdb-c82cf9fc7694)
 Este será su contenido:
+![image](https://github.com/user-attachments/assets/10957cc8-ff98-4dcd-8d3b-5edb66fad342)
 
 
 
